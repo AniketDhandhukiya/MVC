@@ -17,6 +17,7 @@
 		C29A27772A56990B000AB68C /* MVCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29A27762A56990B000AB68C /* MVCTests.swift */; };
 		C29A27812A56990B000AB68C /* MVCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29A27802A56990B000AB68C /* MVCUITests.swift */; };
 		C29A27832A56990B000AB68C /* MVCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29A27822A56990B000AB68C /* MVCUITestsLaunchTests.swift */; };
+		C29A27902A569994000AB68C /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29A278F2A569994000AB68C /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C29A277C2A56990B000AB68C /* MVCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MVCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C29A27802A56990B000AB68C /* MVCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVCUITests.swift; sourceTree = "<group>"; };
 		C29A27822A56990B000AB68C /* MVCUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVCUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C29A278F2A569994000AB68C /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				C29A275E2A56990B000AB68C /* SceneDelegate.swift */,
 				C29A27602A56990B000AB68C /* ViewController.swift */,
 				C29A27622A56990B000AB68C /* Main.storyboard */,
+				C29A278F2A569994000AB68C /* TableViewCell.swift */,
 				C29A27682A56990B000AB68C /* Assets.xcassets */,
 				C29A276A2A56990B000AB68C /* LaunchScreen.storyboard */,
 				C29A276D2A56990B000AB68C /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C29A27902A569994000AB68C /* TableViewCell.swift in Sources */,
 				C29A27612A56990B000AB68C /* ViewController.swift in Sources */,
 				C29A275D2A56990B000AB68C /* AppDelegate.swift in Sources */,
 				C29A27672A56990B000AB68C /* MVC.xcdatamodeld in Sources */,
